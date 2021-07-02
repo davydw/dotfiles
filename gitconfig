@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = davy.wai@essec.edu
-	name = Davy WAI
+	name = davy
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
